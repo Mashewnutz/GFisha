@@ -1,4 +1,4 @@
 # GFisha
 Fishin' fo Gees
 
-Play Here: https://thekiwicode0.github.io/GFisha/
+Play Here: https://thekiwicoder0.github.io/GFisha/
